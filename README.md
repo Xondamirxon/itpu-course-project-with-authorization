@@ -8,7 +8,7 @@ To make it easy for you to get started with this instruction, here's a list of r
 
 ## Load your data to database and work with them
 
-- Create your CSV database file
+- Create your CSV database file using excel or etc
 - When you start the application, CSV file automatically loads to application database
 - Application suggests available commands for correctly working
 - In the application currently works these commands:
@@ -21,5 +21,4 @@ To make it easy for you to get started with this instruction, here's a list of r
 * listByType <product type> - Shows products by type as table
 * clear - Clear screen
 * exit - Exit the application
-
 ```
